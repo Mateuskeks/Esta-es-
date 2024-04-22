@@ -1,0 +1,17 @@
+body {
+    font-size: 15pt;
+    background-color: dimgray;
+}
+.divpri {
+  border: solid grey 3px;
+  border-radius: 15px;
+  display: flex;
+  background-color: slategray;
+}
+
+#btn {
+  height: 100px;
+  width: 100px;
+  border-radius: 16px;
+  background-color:rgba(50, 50, 50, 1) ;
+}
